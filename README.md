@@ -3,10 +3,6 @@
 A full-stack blockchain voting application built with Solidity, Hardhat, Node.js/Express, and React.
 
 ---
-
-## What's New
-
-### Major UX Overhaul (Mar 10, 2026)
 - **Custom DateTimePicker** — replaced `react-datepicker` with a fully custom inline picker (15-min intervals, orange scrollbar, mobile-aware placement)
 - **Toast notification system** — real-time feedback for all actions
 - **Smart duration formatter** — shows human-readable poll duration (e.g. "15m", "2h", "1yr") based on picked start/end times
@@ -103,13 +99,6 @@ App available at `http://localhost:3000`.
 | Chain ID | `31337` |
 | Currency symbol | `ETH` |
 | Block explorer | *(leave empty)* |
-
-**Import a test account:**
-
-- MetaMask → account icon → Import account
-- Paste Account #0's private key:
-  `0xac0974bec39a17e36ba4a6b4d238ff944bacb478cbed5efcae784d7bf4f2ff80`
-- This account has 10,000 test ETH
 
 ---
 
