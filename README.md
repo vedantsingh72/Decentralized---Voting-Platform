@@ -1,4 +1,4 @@
-# DecentraVote — CN6035 Decentralised Voting DApp
+# BlockVote — Decentralised Voting DApp
 
 A full-stack blockchain voting application built with Solidity, Hardhat, Node.js/Express, and React.
 
