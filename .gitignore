@@ -1,0 +1,12 @@
+node_modules/
+.env
+artifacts/
+cache/
+coverage/
+coverage.json
+typechain/
+typechain-types/
+deployment.json
+frontend/node_modules/
+backend/node_modules/
+dist/
